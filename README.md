@@ -147,8 +147,8 @@ After I have done with API Test, I moved on to create **Performance Test**. The 
 
 I had a look at different pattern, namely **Screenplay Pattern**, but at this time, the pattern can be implemented on later stage where:
 
-• The automation code is becoming too massive  
-• The test architecture is changing to **Acceptance Testing Architecture**  
+• The automation code is becoming too massive.  
+• The test architecture is changing to **Acceptance Testing Architecture**.  
 • The AUT (Application Under Test) focuses on performing _tasks_ and _interactions_.  
 • The AUT is frequently changing.  
 • The Management wants QA Team to write more expressive and closer to business language.  
