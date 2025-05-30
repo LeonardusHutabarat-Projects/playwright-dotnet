@@ -88,10 +88,17 @@ A_UserRegistrationFlow
 B_ProductSearchAndFiltering  
 C_ShoppingCartFunctionality  
 
-When I was creating **SetUp()**, I managed to get a visual regression testing done. This is for fuuture reference if more work needs to be done. For this, I signed up with Percy website and I approved the screenshot on my Percy dashboard. The screenshot can be found in my local repository with the following address:
+When I was creating **SetUp()**, I managed to get a visual regression testing done. This is for fuuture reference if more work needs to be done. For this, I signed up with [Percy website][Source16] and I approved the screenshot on my Percy dashboard. The screenshot can be found in my local repository with the following address:
 
 Location of the file: logo.png  
 file:///D:/_gitHub/PlaywrightTests/bin/Debug/net9.0/
+
+[Source16]: https://percy.io/ef8fe17f/web/technical-assessment-5a87805d/builds/40661164/changed/2185831136?browser=edge&browser_ids=63%2C64%2C65%2C66&group_snapshots_by=similar_diff&subcategories=approved&viewLayout=side-by-side&viewMode=new&width=1280&widths=375%2C1280
+
+<figure>
+	<figcaption>Percy Dashboard</figcaption>
+	<img src="images/Figure_8.png">
+</figure>
 
 After this, I applied **Page Object Model** pattern and I created new folder called **Pages** where I place the followings:
 
