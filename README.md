@@ -201,7 +201,7 @@ One website that helped me a lot is [StackOverflow][Source4].
 
 ### Future Improvement
 
-The time given to do this technical assessment is quite generous. Coupled with my own personal life, I find the time is to be very understanding. The future improvement for this test automation really depends on the feedback from Project Manager, Developers, fellow QAs and business users. Without their feedback, it is only a game of guessing which area of Automation can be improved. It is not about the time, it is more about the feedback from the team and from the business users. Also, the framework can be improved or changed depends on the feedback and/or the business needs. Once you understand what needs to be done, the rest is just about doing it. Because ... Google is always by your side. :smiley:
+The time given to do this technical assessment is quite generous. Coupled with my own personal life, I find the time is to be very understanding. The future improvement for this test automation really depends on the feedback from Project Manager, Developers, fellow QAs and business users. Without their feedback, it is only a game of guessing which area of automation can be improved. It is not about the time, rather it is more about the feedback from the team and from the business users. Also, the framework can be improved or changed depends on the feedback and/or the business needs. Once you understand what needs to be done, the rest is just about doing it. Because ... Google is always by your side. :smile:
 
 
 
