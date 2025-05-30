@@ -1,51 +1,3 @@
-A First Level Header
-====================
-
-A Second Level Header
----------------------
-
-### Header 3
-
-> Blockquote.
->
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in blockquote.
-
-*This is emphasized*
-
-_This is emphasized too_
-
-**strong**
-
-__underscored__
-
-* candy
-+ candy
-
-From [Google][1]
-
-[1]: https://google.com
-
-My day [The New York Times][NY Times].
-
-[ny times]: http://www.nytimes.com/
-
-`my codes
-still my codes`
-
-Originality Statement
-
-`my code`
-`my code too`
-
-```
-klsjdlkjsl
-lkjlkjlkj
-lkjlkjlkj
-lkjlkjlkjlklkjl
-```
-
 
 ## Originality Statement
 
@@ -203,9 +155,4 @@ One website that helped me a lot is [StackOverflow][Source4].
 
 The time given to do this technical assessment is quite generous. Coupled with my own personal life, I find the time is to be very understanding. The future improvement for this test automation really depends on the feedback from Project Manager, Developers, fellow QAs and business users. Without their feedback, it is only a game of guessing which area of automation can be improved. It is not about the time, rather it is more about the feedback from the team and from the business users. Also, the framework can be improved or changed depends on the feedback and/or the business needs. Once you understand what needs to be done, the rest is just about doing it. Because ... Google is always by your side. :smile:
 
-
-
-
-
-
-
+However, on second thought, looking back at the TestData.cs, TestLocator.cs and TestMessages.cs, if I am given more time, I will clean up these files and make them more manageable. I will try to organise them in alphabetical order, or any sort of logical way. Because, where I used to work before, the files in Utility folder were messy and not easy to understand. The contents were all over the place. People just dump whatever they can think of without thinking about the order. They are becoming very massive and unmanageable. As such, rather than searching for an existing locator, for example, people just create a new one. Imagine of more than 10 QAs working on the same repository. :s
