@@ -47,7 +47,7 @@ lkjlkjlkjlklkjl
 ```
 
 
-__Originality Statement__
+## Originality Statement
 
 I can confirm that this project, **PlaywrightTests**, for **Technical Assessment for  Northumbria Hospital Trust**, is my original work. Nobody or noone helped me in creating this project and all the source code in it. 
 
@@ -78,24 +78,26 @@ I have been using the following resources to help me with this project:
 [Source11]: https://www.youtube.com/watch?v=IrK-XDH72bw
 [Source12]: https://www.checklyhq.com/learn/playwright/performance/
 
-__Setp Instructions__
+
+## Setp Instructions
 
 For the setup instruction, I followed [Installation][Source13] documentation to a T using NUnit as the instructions. I setup the test using [Microsoft Visual Studio 2022 Community Edition][Source14] which I downloaded and installed for this technical assessment.
 
 [Source13]: https://playwright.dev/dotnet/docs/intro
 [Source14]: https://visualstudio.microsoft.com/downloads/
 
+
 __Test Execution Commands__
 
 For test execution, I open the Test Explorer section and start running the tests.
 
-### Figure 1: Text Explorer
 <figure>
+	<figcaption>Figure 1: Test Explorer</figcaption>
 	<img src="images/Figure_1.png">
 </figure>
 
 <figure>
-	<figcaption><strong>Figure 2: Run Link<strong></figcaption>
+	<figcaption>Figure 2: Run Link</figcaption>
 	<img src="images/Figure_2.png">
 </figure>
 
@@ -103,6 +105,30 @@ For test execution, I open the Test Explorer section and start running the tests
 	<figcaption>Figure 3: Test Result</figcaption>
 	<img src="images/Figure_3.png">
 </figure>
+
+
+## Architecture and Pattern
+
+The test architecture for this technical assignment is **Unit and Integration Testing Architecture**. As such, I follow the **Page Object Model** because I believe that this pattern gives more organised way to maintain test code by encapsulating the elements of [the web page][Source15]. Also, in this technical assessment, I include **API** and **Performance Testings**
+
+[Source15]: https://automationexercise.com
+
+### • Key Decision
+
+At first, I manually tested all the requirements for 3 scenarios. Then, I wrote the automation test scripts and separate them into 3 tests, namely:
+
+A_UserRegistrationFlow
+B_ProductSearchAndFiltering
+C_ShoppingCartFunctionality
+
+After this, I applied **Page Object Model** pattern and I created new folder called **Pages** where I place the followings:
+
+* ProductPage.cs
+* RegistrationPage.cs
+* ShoppingCartPage.cs
+
+
+
 
 
 
