@@ -80,9 +80,14 @@ I have been using the following resources to help me with this project:
 
 __Setp Instructions__
 
-For the setup instruction, I followed [Installation][Source13] documentation
+For the setup instruction, I followed [Installation][Source13] documentation to a T using NUnit as the instructions. I setup the test using [Microsoft Visual Studio 2022 Community Edition][Source14] which I downloaded and installed for this technical assessment.
 
 [Source13]: https://playwright.dev/dotnet/docs/intro
+[Source14]: https://visualstudio.microsoft.com/downloads/
+
+__Test Execution Commands__
+
+For test execution, I open the Test Explorer section and start running the tests.
 
 
 
