@@ -54,6 +54,17 @@ namespace TechnicalAssessment.Utility
 
         public const string ProductsLinkText = "Products";
 
+        public const string CartModalAddedText = "Added";
+        public const string ProductAddedText = "Your product has been added to cart.";
+        public const string ViewCartText = "View Cart";
+        public const string ContinueShoppingText = "Continue Shopping";
+        public const string ProceedToCheckoutText = "Proceed To Checkout";
+
+        public const int ExpectedProductCountAfterDeletion = 2;
+
+
+
+
 
         public const decimal MinPriceFilter = 700m;
         public const decimal MaxPriceFilter = 1200m;

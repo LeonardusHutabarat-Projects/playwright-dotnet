@@ -14,7 +14,7 @@ using TechnicalAssessment.Utility;
 namespace PlaywrightTests;
 
 [TestFixture]
-public class TechnicalAssessment : PageTest
+public class UI_Tests : PageTest
 {
 
     [SetUp]

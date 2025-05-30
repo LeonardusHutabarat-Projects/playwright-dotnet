@@ -18,7 +18,7 @@ namespace TechnicalAssessment.Utility
         public const string LoggedInAs = "Logged in as {0}";
 
         public const string JeansPopupMissingElements = "Jeans popup window does not contain all expected elements.";
-
+        public static readonly string CartAfterDeletion = $"Cart should have {TestData.ExpectedProductCountAfterDeletion} products after deletion.";
 
 
         public const string PopupMissingElements = "Popup window does not contain all expected elements.";

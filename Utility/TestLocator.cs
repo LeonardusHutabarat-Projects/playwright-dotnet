@@ -49,7 +49,23 @@ namespace TechnicalAssessment.Utility
         public const string ButtonHasText = "button:has-text('{0}')";
         public const string LinkHasText = "a:has-text('{0}')";
         //public const string ViewProductXpath = "xpath=following-sibling::div[@class='choose']//a[contains(text(),'{0}')]";
-
+        public const string ProductInfoHasText = ".productinfo:has-text('{0}')";
+        public const string ButtonByText = "text={0}";
+        public const string CartModal = "div#cartModal";
+        public const string CartModalTitleHasText = "div#cartModal .modal-title:has-text('{0}')";
+        public const string CartModalHasText = "div#cartModal:has-text('{0}')";
+        public const string CartModalViewCartLink = "div#cartModal a:has-text('{0}')";
+        public const string CartModalButtonHasText = "div#cartModal button:has-text('{0}')";
+        public const string ViewCartUrlPattern = "view_cart";
+        public const string CartRowByProductName = "tr:has-text('{0}')";
+        public const string ProductImage = "img";
+        public const string CartCellByProductName = "td:has-text('{0}')";
+        public const string CartPriceCellByPrice = "td.cart_price:has-text('{0}')";
+        public const string CartQuantityCellByQuantity = "td.cart_quantity:has-text('{0}')";
+        public const string CartTotalPriceCellByTotal = "td.cart_total p.cart_total_price:has-text('{0}')";
+        public const string CartDeleteButton = "a.cart_quantity_delete, button.cart_quantity_delete";
+        public const string CartDeleteButtonOnly = "a.cart_quantity_delete";
+        public const string ProductRows = "tr[id^='product-']";
 
 
 
