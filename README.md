@@ -141,7 +141,7 @@ I am also aware of the **Data-Driven Testing**, but I do not implement this for 
 • Data-Driven Testing makes test cases less expressive about _why_ a scenario is tested because the focus is on the data.  
 • Data-Driven Testing requires high maintenance to keep input data stable.
 
-With these facts in mind, I am aware of the **Data-Driven Testing, but at this stage, I am not implementing this **Data-Driven Testing**.
+With these facts in mind, I am aware of the **Data-Driven Testing**, but at this stage, I am not implementing this **Data-Driven Testing**.
 
 
 ### Challenges
