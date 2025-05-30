@@ -16,11 +16,8 @@ namespace TechnicalAssessment.Utility
         public const string MenuItemNotFound = "Menu item '{0}' not found in the navigation bar.";
         public const string AllMenuItemsVerified = "All menu items verified successfully.";
         public const string LoggedInAs = "Logged in as {0}";
-
         public const string JeansPopupMissingElements = "Jeans popup window does not contain all expected elements.";
         public static readonly string CartAfterDeletion = $"Cart should have {TestData.ExpectedProductCountAfterDeletion} products after deletion.";
-
-
         public const string PopupMissingElements = "Popup window does not contain all expected elements.";
     }
 }

@@ -48,7 +48,6 @@ namespace TechnicalAssessment.Utility
         public const string QuantityInput = "input[name='quantity']";
         public const string ButtonHasText = "button:has-text('{0}')";
         public const string LinkHasText = "a:has-text('{0}')";
-        //public const string ViewProductXpath = "xpath=following-sibling::div[@class='choose']//a[contains(text(),'{0}')]";
         public const string ProductInfoHasText = ".productinfo:has-text('{0}')";
         public const string ButtonByText = "text={0}";
         public const string CartModal = "div#cartModal";
@@ -66,10 +65,6 @@ namespace TechnicalAssessment.Utility
         public const string CartDeleteButton = "a.cart_quantity_delete, button.cart_quantity_delete";
         public const string CartDeleteButtonOnly = "a.cart_quantity_delete";
         public const string ProductRows = "tr[id^='product-']";
-
-
-
-
         public const string CategoryLink = "a:text-is('{0}')";
         public const string ProductImageWrapper = ".product-image-wrapper";
         public const string ProductInformationPrefix = "div.product-information";
