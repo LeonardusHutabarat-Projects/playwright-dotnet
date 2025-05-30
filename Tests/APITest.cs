@@ -55,11 +55,9 @@ public class API_Tests : PageTest
         // Parse JSON response
         var json = await response.JsonAsync();
 
-        // Optional: Assert that the JSON contains a "products" array
         Assert.IsTrue(json.Value.TryGetProperty("products", out var products), "Response JSON does not contain 'products' property.");
         Assert.IsTrue(products.ValueKind == JsonValueKind.Array, "'products' is not an array.");
 
-        // Optional: Print the number of products
         TestContext.WriteLine($"Total products: {products.GetArrayLength()}");
     }
 
