@@ -98,13 +98,12 @@ For test execution, I open the Test Explorer section and start running the tests
 
 <figure>
 	<figcaption>Figure 2: Run Link</figcaption>
-	<img src="images/Figure_2.png" style="border: 3px solid #333; border-radius: 8px;">
+	<img src="images/Figure_2.png">
 </figure>
 
 <figure>
 	<figcaption>Figure 3: Test Result</figcaption>
-	<div style="display:inline-block; border:4px solid #0077cc; padding:4px; border-radius:10px;">
-	<img src="images/Figure_3.png" style="display:block;">
+	<img src="images/Figure_3.png">
 </figure>
 
 
@@ -123,6 +122,12 @@ B_ProductSearchAndFiltering
 C_ShoppingCartFunctionality  
 
 After this, I applied **Page Object Model** pattern and I created new folder called **Pages** where I place the followings:
+
+<ul>
+  <li><span style="color: red;">ProductPage.cs</span></li>
+  <li><span style="color: green;">RegistrationPage.cs</span></li>
+  <li><span style="color: blue;">ShoppingCartPage.cs</span></li>
+</ul>
 
 * ProductPage.cs
 * RegistrationPage.cs
