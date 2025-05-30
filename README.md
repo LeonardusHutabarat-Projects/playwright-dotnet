@@ -26,3 +26,7 @@ __underscored__
 From [Google][1]
 
 [1]: https://google.com "Google"
+
+My day [The New York Times][NY Times].
+
+[my times]: http://www.nytimes.com/
