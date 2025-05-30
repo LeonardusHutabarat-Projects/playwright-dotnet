@@ -90,9 +90,6 @@ C_ShoppingCartFunctionality
 
 When I was creating **SetUp()**, I managed to get a visual regression testing done. This is for fuuture reference if more work needs to be done. For this, I signed up with [Percy website][Source16] and I approved the screenshot on my Percy dashboard. The screenshot can be found in my local repository with the following address:
 
-Location of the file: logo.png  
-file:///D:/_gitHub/PlaywrightTests/bin/Debug/net9.0/
-
 [Source16]: https://percy.io/ef8fe17f/web/technical-assessment-5a87805d/builds/40661164/changed/2185831136?browser=edge&browser_ids=63%2C64%2C65%2C66&group_snapshots_by=similar_diff&subcategories=approved&viewLayout=side-by-side&viewMode=new&width=1280&widths=375%2C1280
 
 <figure>
@@ -120,9 +117,6 @@ Then, I created API Test containing basic **GET** and **POST** requests.
 </figure>
 
 For API Test, I managed to make the JOSN file pretty in the documentation.
-
-Location of the file: productList_pretty.json  
-file:///D:/_gitHub/PlaywrightTests/bin/Debug/net9.0/
 
 After I have done with API Test, I moved on to create **Performance Test**. The result of the Performance Test is in the Ouput section as shown below.
 
