@@ -9,3 +9,16 @@ A Second Level Header
 > Blockquote.
 >
 > This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in blockquote.
+
+*This is emphasized*
+
+_This is emphasized too_
+
+**strong**
+
+__underscored__
+
+* candy
++ candy
