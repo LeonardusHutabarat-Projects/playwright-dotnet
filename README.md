@@ -95,7 +95,7 @@ For test execution, I open the Test Explorer section and start running the tests
 </figure>
 
 <figure>
-	<figcaption>Figure 2: Run Link</figcaption>
+	<figcaption>**Figure 2: Run Link**</figcaption>
 	<img src="images/Figure_2.png">
 </figure>
 
