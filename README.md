@@ -167,9 +167,9 @@ With these facts in mind, I am aware of the **Data-Driven Testing**, but at this
 
 ### Challenges
 
-The biggest challenge is to get to know Microsoft Visual Studio 2022 Community Edition. The layout and the shortcuts, not to mention anything else, are different and I had to learn them since the start of writing the technical assessment. How to solve this challenge? I googled a lot.
+The biggest challenge is to get to know Microsoft Visual Studio 2022 Community Edition. The layout and the shortcuts, not to mention anything else, are different and I had to learn them since the start of writing the technical assessment. How to solve this challenge? I googled it a lot.
 
-The other challenge, albeit mini, is to brush up on my C# language. How to solve this challenge? I googled a lot as well. 
+The other challenge, albeit mini, is to brush up on my C# language. How to solve this challenge? I googled it a lot as well. 
 
 One website that helped me a lot is [StackOverflow][Source4].
 
