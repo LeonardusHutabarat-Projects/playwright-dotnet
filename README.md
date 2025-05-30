@@ -98,7 +98,7 @@ For test execution, I open the Test Explorer section and start running the tests
 
 <figure>
 	<figcaption>Figure 2: Run Link</figcaption>
-	<img src="images/Figure_2.png">
+	<img src="images/Figure_2.png" style="border: 3px solid #333; border-radius: 8px;">
 </figure>
 
 <figure>
