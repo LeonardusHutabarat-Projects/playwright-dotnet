@@ -91,12 +91,16 @@ For test execution, I open the Test Explorer section and start running the tests
 
 <figure>
 	<figcaption>Figure 1: Test Explorer</figcaption>
-	<img src="images/Figure_1.png"> alt="My description">
+	<img src="images/Figure_1.png">
+</figure>
+
+<figure>
+	<figcaption>Figure 1: Run Link</figcaption>
+	<img src="images/Figure_2.png">
 </figure>
 
 
 
-![Run Link](images/Figure_2.png)
 
 
 ![Test Result](images/Figure_3.png)
