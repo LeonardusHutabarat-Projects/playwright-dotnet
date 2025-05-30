@@ -117,9 +117,9 @@ The test architecture for this technical assignment is **Unit and Integration Te
 
 At first, I manually tested all the requirements for 3 scenarios. Then, I wrote the automation test scripts and separate them into 3 tests, namely:
 
-A_UserRegistrationFlow
-B_ProductSearchAndFiltering
-C_ShoppingCartFunctionality
+A_UserRegistrationFlow  
+B_ProductSearchAndFiltering  
+C_ShoppingCartFunctionality  
 
 After this, I applied **Page Object Model** pattern and I created new folder called **Pages** where I place the followings:
 
