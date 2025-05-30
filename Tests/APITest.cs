@@ -8,7 +8,7 @@ using NUnit.Framework;
 using System.Text.Json;
 using Microsoft.Playwright.NUnit;
 
-namespace PlaywrightTests;
+namespace TechnicalAssessment.Tests;
 
 [TestFixture]
 public class API_Tests : PageTest
@@ -79,7 +79,7 @@ public class API_Tests : PageTest
         Assert.AreEqual(200, status, "Expected HTTP status 200");
 
         // Parse JSON and check responseCode/message
-        using var doc = System.Text.Json.JsonDocument.Parse(body);
+        using var doc = JsonDocument.Parse(body);
         var root = doc.RootElement;
 
         Assert.IsTrue(root.TryGetProperty("responseCode", out var code), "No responseCode in JSON");

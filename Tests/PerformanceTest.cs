@@ -8,7 +8,7 @@ using Microsoft.Playwright;
 using Microsoft.Playwright.NUnit;
 using TechnicalAssessment.Utility;
 
-namespace PlaywrightTests;
+namespace TechnicalAssessment.Tests;
 
 [TestFixture]
 public class PerformanceTest

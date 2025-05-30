@@ -11,7 +11,7 @@ using PercyIO.Playwright;
 using TechnicalAssessment.Pages;
 using TechnicalAssessment.Utility;
 
-namespace PlaywrightTests;
+namespace TechnicalAssessment.Tests;
 
 [TestFixture]
 public class UI_Tests : PageTest
