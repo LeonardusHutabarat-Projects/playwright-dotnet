@@ -22,3 +22,7 @@ __underscored__
 
 * candy
 + candy
+
+From [Google][1]
+
+[1]: https://google.com "Google"
