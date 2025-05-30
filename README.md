@@ -25,7 +25,7 @@ __underscored__
 
 From [Google][1]
 
-[1]: https://google.com "Google"
+[1]: https://google.com
 
 My day [The New York Times][NY Times].
 
