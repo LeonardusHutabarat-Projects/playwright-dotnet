@@ -123,15 +123,9 @@ C_ShoppingCartFunctionality
 
 After this, I applied **Page Object Model** pattern and I created new folder called **Pages** where I place the followings:
 
-<ul>
-  <li><span style="color: red;">ProductPage.cs</span></li>
-  <li><span style="color: green;">RegistrationPage.cs</span></li>
-  <li><span style="color: blue;">ShoppingCartPage.cs</span></li>
-</ul>
-
-* ProductPage.cs
-* RegistrationPage.cs
-* ShoppingCartPage.cs
+(1) ProductPage.cs  
+(2) RegistrationPage.cs  
+(3) ShoppingCartPage.cs  
 
 
 
