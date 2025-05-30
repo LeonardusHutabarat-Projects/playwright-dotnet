@@ -92,5 +92,13 @@ For test execution, I open the Test Explorer section and start running the tests
 Figure 1 - Test Explorer
 ![Alt text](images/Figure_1.png)
 
+Figure 2 - Run
+![Alt text](images/Figure_2.png)
+
+Figure 3 - Test Result
+![Alt text](images/Figure_3.png)
+
+
+
 
 
