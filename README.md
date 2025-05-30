@@ -56,6 +56,8 @@ The list of all dependencies can be referred to by this screenshot below:
 
 ### Test Execution Commands
 
+#### From Visual Studio 2022 Community Edition
+
 For test execution, I open the Test Explorer section and start running the tests.
 
 <figure>
@@ -73,6 +75,8 @@ For test execution, I open the Test Explorer section and start running the tests
 	<img src="images/Figure_3.png">
 </figure>
 
+#### From the command line
+
 I also can run from the command line by executing `> dotnet test PlaywrightTests.sln`.
 
 <figure>
@@ -85,7 +89,6 @@ Below is the file that captured the test result from the command line.
 [testResultUsingCML.txt][Source18]  
 
 [Source18]: https://github.com/leonardushutabarat/PlaywrightTests-TechnicalAssessment/blob/master/testResultUsingCML.txt
-
 
 ## Architecture and Pattern
 
