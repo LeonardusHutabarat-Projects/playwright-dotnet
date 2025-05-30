@@ -78,5 +78,11 @@ I have been using the following resources to help me with this project:
 [Source11]: https://www.youtube.com/watch?v=IrK-XDH72bw
 [Source12]: https://www.checklyhq.com/learn/playwright/performance/
 
+__Setp Instructions__
+
+For the setup instruction, I followed [Installation][Source13] documentation
+
+[Source13]: https://playwright.dev/dotnet/docs/intro
+
 
 
