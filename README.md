@@ -88,6 +88,8 @@ A_UserRegistrationFlow
 B_ProductSearchAndFiltering  
 C_ShoppingCartFunctionality  
 
+The reason why I created A, B, C as the prefixes is because I want to see the test in Test Explorer based on the one that I created first, not based on alphabetical order. Just to ensure I go through the scenario one at a time based on the Technical Assessment instructions. When I finished with A_UserRegistrationFlow script, then I moved on to the B_ProductSearchAndFiltering.
+
 When I was creating **SetUp()**, I managed to get a visual regression testing done. This is for fuuture reference if more work needs to be done. For this, I signed up with [Percy website][Source16] and I approved the screenshot on my Percy dashboard. The screenshot can be found in my local repository with the following address:
 
 [Source16]: https://percy.io/ef8fe17f/web/technical-assessment-5a87805d/builds/40661164/changed/2185831136?browser=edge&browser_ids=63%2C64%2C65%2C66&group_snapshots_by=similar_diff&subcategories=approved&viewLayout=side-by-side&viewMode=new&width=1280&widths=375%2C1280
