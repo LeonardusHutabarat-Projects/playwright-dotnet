@@ -80,6 +80,12 @@ I also can run from the command line by executing `> dotnet test PlaywrightTests
 	<img src="images/Figure_9.png">
 </figure>
 
+Below is the file that captured the test result from the command line.
+
+[testResultUsingCML.txt][Source18]  
+
+[Source18]: https://github.com/leonardushutabarat/PlaywrightTests-TechnicalAssessment/blob/master/testResultUsingCML.txt
+
 
 ## Architecture and Pattern
 
