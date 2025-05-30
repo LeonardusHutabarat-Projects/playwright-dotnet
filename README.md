@@ -128,7 +128,7 @@ The test architecture for this technical assignment is **Unit and Integration Te
 
 [Source15]: https://automationexercise.com
 
-### • Key Decisions
+### Key Decisions
 
 At first, I manually tested all the requirements for 3 scenarios. Then, I wrote the automation test scripts and separate them into 3 tests, namely:
 
@@ -180,6 +180,28 @@ I had a look at different pattern, namely **Screenplay Pattern**, but at this ti
 
 With those facts in mind, I am aware of the **Screenplay Pattern**, but at this stage, I am implementing **Page Object Model**.
 
+I am also aware of the **Data-Driven Testing**, but I do not implement this for this technical assessment. The reasons why are as follows:
+
+• This technical assessment focuses on behaviour, not data variations.  
+• The complexity and overhead outweighs the benefits since this technical assessment is more about workflow correctness.  
+• Data-Driven Testing makes test cases less expressive about _why_ a scenario is tested because the focus is on the data.  
+• Data-Driven Testing requires high maintenance to keep input data stable.
+
+With these facts in mind, I am aware of the **Data-Driven Testing, but at this stage, I am not implementing this **Data-Driven Testing**.
+
+
+### Challenges
+
+The biggest challenge is to get to know Microsoft Visual Studio 2022 Community Edition. The layout and the shortcuts, not to mention anything else, are different and I had to learn them since the start of writing the technical assessment. How to solve this challenge? I googled a lot.
+
+The other challenge, albeit mini, is to brush up on my C# language. How to solve this challenge? I google a lot. 
+
+One website that helped me a lot is [StackOverflow][Source4].
+
+
+### Future Improvement
+
+The time given to do this technical assessment is quite generous. Coupled with my own personal life, I find the time is to be very understanding. The future improvement for this test automation really depends on the feedback from Project Manager, Developers, fellow QAs and business users. Without their feedback, it is only a game of guessing which area of Automation can be improved. It is not about the time, it is more about the feedback from the team and from the business users. Also, the framework can be improved or changed depends on the feedback and/or the business needs. Once you understand what needs to be done, the rest is just about doing it. Because ... Google is always by your side. :smiley:
 
 
 
