@@ -90,12 +90,19 @@ For dependencies, I install and use from **NuGet Packages Manager** on Visual St
 	<img src="images/Figure_4.png">
 </figure>
 
+The list of all dependencies can be referred to by this screenshot below:
+
+<figure>
+	<figcaption>Complete Dependencies</figcaption>
+	<img src="images/Figure_5.png">
+</figure>
+
 
 [Source13]: https://playwright.dev/dotnet/docs/intro
 [Source14]: https://visualstudio.microsoft.com/downloads/
 
 
-__Test Execution Commands__
+### Test Execution Commands
 
 For test execution, I open the Test Explorer section and start running the tests.
 
@@ -121,7 +128,7 @@ The test architecture for this technical assignment is **Unit and Integration Te
 
 [Source15]: https://automationexercise.com
 
-### • Key Decision
+### • Key Decisions
 
 At first, I manually tested all the requirements for 3 scenarios. Then, I wrote the automation test scripts and separate them into 3 tests, namely:
 
@@ -129,12 +136,49 @@ A_UserRegistrationFlow
 B_ProductSearchAndFiltering  
 C_ShoppingCartFunctionality  
 
+When I was creating **SetUp()**, I managed to get a visual regression testing done. This is for fuuture reference if more work needs to be done. For this, I signed up with Percy website and I approved the screenshot on my Percy dashboard. The screenshot can be found in my local repository with the following address:
+
+[Location of the file: logo.png](file:///D:/_gitHub/PlaywrightTests/bin/Debug/net9.0/)
+
 After this, I applied **Page Object Model** pattern and I created new folder called **Pages** where I place the followings:
 
 (1) ProductPage.cs  
 (2) RegistrationPage.cs  
 (3) ShoppingCartPage.cs  
 
+Also, I created a **Utility** folder, at the same time when I was doing **POM**, where I created the followings:
+
+(1) TestData.cs  
+(2) TestLocator.cs  
+(3) TestMessages.cs  
+
+Then, I created API Test containing basic **GET** and **POST** requests.
+
+<figure>
+	<figcaption>API Test</figcaption>
+	<img src="images/Figure_6.png">
+</figure>
+
+For API Test, I managed to make the JOSN file pretty in the documentation.
+
+[Location of the file: productList_pretty.json](file:///D:/_gitHub/PlaywrightTests/bin/Debug/net9.0/)
+
+After I have done with API Test, I moved on to create **Performance Test**. The result of the Performance Test is in the Ouput section as shown below.
+
+<figure>
+	<figcaption>Performance Test Result</figcaption>
+	<img src="images/Figure_7.png">
+</figure>
+
+I had a look at different pattern, namely **Screenplay Pattern**, but at this time, the pattern can be implemented on later stage where:
+
+• The automation code is becoming too massive  
+• The test architecture is changing to **Acceptance Testing Architecture**  
+• The AUT (Application Under Test) focuses on performing _tasks_ and _interactions_.  
+• The AUT is frequently changing.  
+• The Management wants QA Team to write more expressive and closer to business language.  
+
+With those facts in mind, I am aware of the **Screenplay Pattern**, but at this stage, I am implementing **Page Object Model**.
 
 
 
