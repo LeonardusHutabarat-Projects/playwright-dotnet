@@ -29,4 +29,4 @@ From [Google][1]
 
 My day [The New York Times][NY Times].
 
-[my times]: http://www.nytimes.com/
+[ny times]: http://www.nytimes.com/
