@@ -59,18 +59,25 @@ The list of all dependencies can be referred to by this screenshot below:
 For test execution, I open the Test Explorer section and start running the tests.
 
 <figure>
-	<figcaption>Figure 1: Test Explorer</figcaption>
+	<figcaption>Test Explorer</figcaption>
 	<img src="images/Figure_1.png">
 </figure>
 
 <figure>
-	<figcaption>Figure 2: Run Link</figcaption>
+	<figcaption>Run Link</figcaption>
 	<img src="images/Figure_2.png">
 </figure>
 
 <figure>
-	<figcaption>Figure 3: Test Result</figcaption>
+	<figcaption>Test Result</figcaption>
 	<img src="images/Figure_3.png">
+</figure>
+
+I also can run from the command line by executing `> dotnet test PlaywrightTests.sln`.
+
+<figure>
+	<figcaption>Executing from command line</figcaption>
+	<img src="images/Figure_9.png">
 </figure>
 
 

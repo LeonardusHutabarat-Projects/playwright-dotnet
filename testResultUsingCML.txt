@@ -1,0 +1,12 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  TechnicalAssessment -> D:\_gitHub\PlaywrightTests\bin\Debug\net9.0\TechnicalAssessment.dll
+Test run for D:\_gitHub\PlaywrightTests\bin\Debug\net9.0\TechnicalAssessment.dll (.NETCoreApp,Version=v9.0)
+VSTest version 17.13.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:     6, Skipped:     0, Total:     6, Duration: 36 s - TechnicalAssessment.dll (net9.0)
+
+Workload updates are available. Run `dotnet workload list` for more information.
