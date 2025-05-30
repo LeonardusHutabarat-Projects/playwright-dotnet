@@ -34,6 +34,7 @@ My day [The New York Times][NY Times].
 `my codes
 still my codes`
 
+Originality Statement
 
 `my code`
 `my code too`
@@ -44,3 +45,15 @@ lkjlkjlkj
 lkjlkjlkj
 lkjlkjlkjlklkjl
 ```
+
+
+__Originality Statement__
+
+I can confirm that this project, **PlaywrightTests**, for Technical Assessment for  Northumbria Hospital Trust, is my original work.
+
+I have been using the following resources to help me with this project:
+(1) [Playwright for .NET][Source1]
+
+[Source1] https://playwright.dev/dotnet/docs/intro
+
+
