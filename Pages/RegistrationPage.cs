@@ -27,14 +27,6 @@ namespace TechnicalAssessment.Pages
             string randomEmail = $"user_{Guid.NewGuid()}@example.com";
             string password = _faker.Internet.Password();
 
-            /*
-            await _page.Locator("text= Signup / Login").ClickAsync();
-            await _page.FillAsync("input[name='name']", fullName);
-            await _page.FillAsync("input[data-qa='signup-email']", randomEmail);
-            await _page.ClickAsync("button[data-qa='signup-button']");
-            await _page.WaitForSelectorAsync("h2:has-text('Enter Account Information')");
-            */
-
             await _page.Locator(TestLocator.SignupLoginButton).ClickAsync();
             await _page.FillAsync(TestLocator.NameInput, fullName);
             await _page.FillAsync(TestLocator.SignupEmailInput, randomEmail);
@@ -55,18 +47,6 @@ namespace TechnicalAssessment.Pages
             await _page.FillAsync(TestLocator.FirstNameInput, firstName);
             await _page.FillAsync(TestLocator.LastNameInput, lastName);
             await _page.FillAsync(TestLocator.AddressInput, _faker.Address.StreetAddress());
-
-            /*
-            string[] countries = {
-                "India",
-                "United States",
-                "Canada",
-                "Australia",
-                "Israel",
-                "New Zealand",
-                "Singapore"
-            };
-            */
 
             await _page.SelectOptionAsync(TestLocator.CountryDropdown, _faker.PickRandom(TestData.Countries));
             await _page.FillAsync(TestLocator.StateInput, _faker.Address.State());
