@@ -103,7 +103,8 @@ For test execution, I open the Test Explorer section and start running the tests
 
 <figure>
 	<figcaption>Figure 3: Test Result</figcaption>
-	<img src="images/Figure_3.png">
+	<div style="display:inline-block; border:2px solid #0077cc; padding:4px; border-radius:10px;">
+	<img src="images/Figure_3.png" style="display:block;">
 </figure>
 
 
