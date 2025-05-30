@@ -89,8 +89,11 @@ __Test Execution Commands__
 
 For test execution, I open the Test Explorer section and start running the tests.
 
+<figure>
+	<figcaption>Figure 1: Test Explorer</figcaption>
+	<img src="images/Figure_1.png"> alt="My description">
+</figure>
 
-![Test Explorer](images/Figure_1.png)
 
 
 ![Run Link](images/Figure_2.png)
