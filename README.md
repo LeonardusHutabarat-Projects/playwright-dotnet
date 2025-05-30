@@ -56,7 +56,7 @@ The list of all dependencies can be referred to by this screenshot below:
 
 ### Test Execution Commands
 
-#### From Visual Studio 2022 Community Edition
+#### &rarr; From Visual Studio 2022 Community Edition
 
 For test execution, I open the Test Explorer section and start running the tests.
 
@@ -75,7 +75,7 @@ For test execution, I open the Test Explorer section and start running the tests
 	<img src="images/Figure_3.png">
 </figure>
 
-#### From the command line
+#### &rarr; From the command line
 
 I also can run from the command line by executing `> dotnet test PlaywrightTests.sln`.
 
