@@ -83,6 +83,14 @@ I have been using the following resources to help me with this project:
 
 For the setup instruction, I followed [Installation][Source13] documentation to a T using NUnit as the instructions. I setup the test using [Microsoft Visual Studio 2022 Community Edition][Source14] which I downloaded and installed for this technical assessment.
 
+For dependencies, I install and use from **NuGet Packages Manager** on Visual Studio.
+
+<figure>
+	<figcaption>NuGet Packages</figcaption>
+	<img src="images/Figure_4.png">
+</figure>
+
+
 [Source13]: https://playwright.dev/dotnet/docs/intro
 [Source14]: https://visualstudio.microsoft.com/downloads/
 
