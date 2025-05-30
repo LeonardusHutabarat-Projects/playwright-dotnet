@@ -49,7 +49,7 @@ lkjlkjlkjlklkjl
 
 __Originality Statement__
 
-I can confirm that this project, **PlaywrightTests**, for **Technical Assessment for  Northumbria Hospital Trust**, is my original work.
+I can confirm that this project, **PlaywrightTests**, for **Technical Assessment for  Northumbria Hospital Trust**, is my original work. Nobody or noone helped me in creating this project and all the source code in it. 
 
 I have been using the following resources to help me with this project:
 1. [Playwright for .NET][Source1]
@@ -61,6 +61,9 @@ I have been using the following resources to help me with this project:
 7. [Medium][Source7]
 8. [GitHub for Bogus][Source8]
 9. [nuget website][Source9]
+10. [Playwright with C# .NET Tutorial on YouTube][Source10]
+11. [Performance Testing using Playwright on YouTube][Source11]
+12. [Measuring Page Performance Using Playwright - Best Practices][Source12]
 
 [Source1]: https://playwright.dev/dotnet/docs/intro
 [Source2]: https://learn.microsoft.com/en-us/dotnet/
@@ -71,5 +74,9 @@ I have been using the following resources to help me with this project:
 [Source7]: https://medium.com/
 [Source8]: https://github.com/bchavez/Bogus
 [Source9]: https://www.nuget.org/
+[Source10]: https://www.youtube.com/watch?v=5i53YLWD_QI&list=PL6tu16kXT9PoUv6HwexX5LPBzzv7QkI9W
+[Source11]: https://www.youtube.com/watch?v=IrK-XDH72bw
+[Source12]: https://www.checklyhq.com/learn/playwright/performance/
+
 
 
