@@ -89,7 +89,7 @@ __Test Execution Commands__
 
 For test execution, I open the Test Explorer section and start running the tests.
 
-Figure 1
+Figure 1 - Test Explorer
 ![Alt text](images/Figure_1.png)
 
 
