@@ -116,9 +116,9 @@ Then, I created API Test containing basic **GET** and **POST** requests.
 	<img src="images/Figure_6.png">
 </figure>
 
-For API Test, I managed to make the JOSN file pretty in the documentation. This file [productList_pretty.json][Source16] is available in this repository.
+For API Test, I managed to make the JOSN file pretty in the documentation. This file [productList_pretty.json][Source17] is available in this repository.
 
-[Source16]: https://github.com/leonardushutabarat/PlaywrightTests-TechnicalAssessment/blob/master/productsList_pretty.json
+[Source17]: https://github.com/leonardushutabarat/PlaywrightTests-TechnicalAssessment/blob/master/productsList_pretty.json
 
 After I have done with API Test, I moved on to create **Performance Test**. The result of the Performance Test is in the Ouput section as shown below.
 
