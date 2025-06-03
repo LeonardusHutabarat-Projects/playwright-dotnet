@@ -1,6 +1,4 @@
 
-Test 123
-
 ## Originality Statement
 
 I can confirm that this project,is my original work. Nobody or noone helped me in creating this project and all the source code in it. 
@@ -18,19 +16,6 @@ I have been using the following resources to help me with this project:
 10. [Playwright with C# .NET Tutorial on YouTube][Source10]
 11. [Performance Testing using Playwright on YouTube][Source11]
 12. [Measuring Page Performance Using Playwright - Best Practices][Source12]
-
-[Source1]: https://playwright.dev/dotnet/docs/intro
-[Source2]: https://learn.microsoft.com/en-us/dotnet/
-[Source3]: https://automationexercise.com/
-[Source4]: https://stackoverflow.com/
-[Source5]: https://percy.io/
-[Source6]: https://www.reddit.com/r/technology/
-[Source7]: https://medium.com/
-[Source8]: https://github.com/bchavez/Bogus
-[Source9]: https://www.nuget.org/
-[Source10]: https://www.youtube.com/watch?v=5i53YLWD_QI&list=PL6tu16kXT9PoUv6HwexX5LPBzzv7QkI9W
-[Source11]: https://www.youtube.com/watch?v=IrK-XDH72bw
-[Source12]: https://www.checklyhq.com/learn/playwright/performance/
 
 
 ## Setup Instructions
@@ -167,12 +152,17 @@ I am also aware of the **Data-Driven Testing**, but I do not implement this for 
 With these facts in mind, I am aware of the **Data-Driven Testing**, but at this stage, I am not implementing this **Data-Driven Testing**.
 
 
-### Challenges
-
-The biggest challenge is to get to know Microsoft Visual Studio 2022 Community Edition. The layout and the shortcuts, not to mention anything else, are different and I had to learn them since the start of writing the technical assessment. How to solve this challenge? I googled it a lot.
-
-The other challenge, albeit mini, is to brush up on my C# language. How to solve this challenge? I googled it a lot as well. 
-
-One website that helped me a lot is [StackOverflow][Source4].
+[Source1]: https://playwright.dev/dotnet/docs/intro
+[Source2]: https://learn.microsoft.com/en-us/dotnet/
+[Source3]: https://automationexercise.com/
+[Source4]: https://stackoverflow.com/
+[Source5]: https://percy.io/
+[Source6]: https://www.reddit.com/r/technology/
+[Source7]: https://medium.com/
+[Source8]: https://github.com/bchavez/Bogus
+[Source9]: https://www.nuget.org/
+[Source10]: https://www.youtube.com/watch?v=5i53YLWD_QI&list=PL6tu16kXT9PoUv6HwexX5LPBzzv7QkI9W
+[Source11]: https://www.youtube.com/watch?v=IrK-XDH72bw
+[Source12]: https://www.checklyhq.com/learn/playwright/performance/
 
 
