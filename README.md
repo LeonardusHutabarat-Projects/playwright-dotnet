@@ -3,7 +3,7 @@ Test 123
 
 ## Originality Statement
 
-I can confirm that this project, **PlaywrightTests**, for **Technical Assessment for  Northumbria Hospital Trust**, is my original work. Nobody or noone helped me in creating this project and all the source code in it. 
+I can confirm that this project,is my original work. Nobody or noone helped me in creating this project and all the source code in it. 
 
 I have been using the following resources to help me with this project:
 1. [Playwright for .NET][Source1]
@@ -176,8 +176,3 @@ The other challenge, albeit mini, is to brush up on my C# language. How to solve
 One website that helped me a lot is [StackOverflow][Source4].
 
 
-### Future Improvement
-
-The time given to do this technical assessment is quite generous. Coupled with my own personal life, I find the time is to be very understanding. The future improvement for this test automation really depends on the feedback from Project Manager, Developers, fellow QAs and business users. Without their feedback, it is only a game of guessing which area of automation can be improved. It is not about the time, rather it is more about the feedback from the team and from the business users. Also, the framework can be improved or changed depends on the feedback and/or the business needs. Once you understand what needs to be done, the rest is just about doing it. Because ... Google is always by your side. :smile:
-
-However, on second thought, looking back at the **TestData.cs**, **TestLocator.cs** and **TestMessages.cs**, if I am given more time, I will clean up these files and make them more manageable. I will try to organise them in alphabetical order, or any sort of logical way. Because, where I used to work before, the files in Utility folder were messy and not easy to understand. The contents were all over the place. People just dump whatever they can think of without thinking about the order. They are becoming very massive and unmanageable. As such, rather than searching for an existing locator, for example, people just create a new one. Imagine if more than 10 QAs working on the same repository. :unamused:
